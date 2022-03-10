@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# AerialWaste Dataset
 
-You can use the [editor on GitHub](https://github.com/rnt-pmi/AerialWaste-docs/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+AerialWaste is a dataset for the discovery of illegal landfill. Illegal landfills from aerial images present a visual heterogeneity of the scenes in which waste dumps appear and with the diverse nature of the objects that compose a waste deposit. When observed from above waste dumps appear as complex arrangements of objects of different shapes, sizes, and orientation.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Dataset description
 
-### Markdown
+The dataset contains {numer_of_images} images from three different sources: Ortophotos (20cm GSD), World-View3 (30cm GSD) and GoogleEarth (50cm GSD).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Highlights:
+- Annotations refer to the presence of a waste dump as a whole and to the visibility of specific types of garbage.  
+- Ground truth labels are provided by professional photo interpreters specialized in the use of aerial images for landfill detection.
+- The annotations support multiple CV tasks: binary and multi-class image classification and weakly supervised localization. 
+- The dataset adheres to the standard MS COCO format. 
 
-```markdown
-Syntax highlighted code block
+## Use the dataset
 
-# Header 1
-## Header 2
-### Header 3
+You can obtain the data set along with its annotations from [HERE](https://github.com/rnt-pmi/AerialWaste)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rnt-pmi/AerialWaste-docs/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Rocio Nahime Torres: rocionahime.torres@polimi.it
+Piero Fraternali: piero.fraternali@polimi.it
