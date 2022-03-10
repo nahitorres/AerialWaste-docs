@@ -1,8 +1,6 @@
-# AerialWaste Dataset
+## What is AerialWaste?
 
 AerialWaste is a dataset for the discovery of illegal landfill. Illegal landfills from aerial images present a visual heterogeneity of the scenes in which waste dumps appear and with the diverse nature of the objects that compose a waste deposit. When observed from above waste dumps appear as complex arrangements of objects of different shapes, sizes, and orientation.
-
-## Dataset description
 
 The dataset contains {numer_of_images} images from three different sources: Ortophotos (20cm GSD), World-View3 (30cm GSD) and GoogleEarth (50cm GSD).
 
