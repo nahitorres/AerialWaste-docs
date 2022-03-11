@@ -2,7 +2,7 @@
   "short_name": "AerialWaste",
   "name": "AerialWaste.org",
   "icons": [{
-    "src": "icons/garbage.png",
+    "src": "garbage.png",
     "type": "image/png",
     "sizes": "192x192"
   }],

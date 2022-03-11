@@ -3,9 +3,9 @@
 <browserconfig>
   <msapplication>
     <tile>
-      <square70x70logo src="icons/garbage.png"/>
+      <square70x70logo src="garbage.png"/>
       <square150x150logo src="garbage.png"/>
-      <wide310x150logo src="garbage.png"/>
+      <wide310x150logo src="garbage-wide.png"/>
       <square310x310logo src="garbage.png"/>
     </tile>
   </msapplication>
