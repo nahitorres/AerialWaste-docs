@@ -247,3 +247,12 @@ body {
 .icon-download{
   background: url("../icons/image_download.png");
 }
+
+.icon-model{
+  background: url("../icons/deep-learning.png");
+}
+
+.icon-inspection{
+  background: url("../icons/map.png");
+}
+
